@@ -1,14 +1,61 @@
-# 💫 About Me:
-🎓 3rd-year B.Tech student in Computer Science & Engineering (AI/ML) <br>🔬 Passionate about building intelligent systems — from medical imaging AI and skin disease classification to curiosity-driven reinforcement learning agents<br>🧠 My core focus is Machine Learning & Deep Learning — working with architectures like ResNet50, EfficientNet-B4, ViT-B/16, and MobileNetV3 across real-world healthcare datasets<br>📊 I enjoy the full pipeline — data cleaning, EDA, model training, evaluation, and deployment using Streamlit<br>🛠️ Currently exploring MLOps with MLflow and building end-to-end AI-powered applications<br>📝 Co-authored an IEEE-format research paper comparing 7 ML/DL models for skin disease detection on dermoscopic datasets
+# Hi, I'm Tanishka Gupta 👋
 
+🎓 Final-year B.Tech Computer Science & Engineering student specializing in AI/ML at Sharda University.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tanishka-gupta-6213892a7/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tg963514@gmail.com) 
+I'm interested in building intelligent applications using Generative AI, Large Language Models, and AI agents. I enjoy understanding how AI systems work internally and turning concepts into practical applications.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=flat&logo=snowflake&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
+## 💫 About Me
+
+* 🤖 Exploring Generative AI, LLMs, Retrieval-Augmented Generation (RAG), and Agentic AI.
+* 🧠 Working with prompt engineering, embeddings, vector databases, and context-aware LLM applications.
+* 🛠️ Building AI-powered applications using Python, LLM APIs, and frameworks such as LangChain and LangGraph.
+* 🔗 Interested in designing AI workflows that integrate external tools, APIs, and knowledge sources.
+* ⚙️ Learning backend development, API integration, and deployment to build end-to-end AI applications.
+* 📊 Familiar with data preprocessing, exploratory data analysis, model evaluation, and machine learning fundamentals.
+* 📈 Exploring MLOps concepts, experiment tracking, and reliable deployment of AI applications.
+* 📄 Co-authored an IEEE-format research paper involving machine learning and deep learning model evaluation.
+
+## 🛠️ Tech Stack
+
+**Languages & Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
+**Generative AI & LLMs**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
+
+**Machine Learning & Data Science**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+
+**Deployment & Developer Tools**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge\&logo=mlflow\&logoColor=white)
+
+## 🎯 Current Focus
+
+* Building a deeper understanding of LLMs, transformers, and attention mechanisms.
+* Developing RAG pipelines with document processing, chunking, embeddings, and vector search.
+* Learning to build AI agents with tool calling, state management, and multi-step workflows.
+* Improving the reliability of LLM applications through evaluation, error handling, and prompt design.
+* Strengthening my understanding of API development and deploying end-to-end GenAI applications.
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tanishka-gupta-6213892a7/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:tg963514@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Tanishka789&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💡 *Interested in building practical Generative AI applications and intelligent systems.*
